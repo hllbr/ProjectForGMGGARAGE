@@ -1,0 +1,15 @@
+Yıkama,250
+Boyama,2500
+Kaplama küçük bütçe,7000
+Kaplama orta bütçe,14000
+Kaplama yüksek bütçe,75000
+Kaplama Tasarım,120000
+Kaplama VIP,250000
+Pasta Cıla,1500
+ALI DAYI ILE FOTOGRAF ÇEKINMEK,50
+ALI DAYI ILE SOHBET EDEREK CAY ICME,75
+ALI DAYI ILE KAHVE YAPMAK(AMERICANO vb...),1500
+Bakım,785
+Komple Bakım,1750
+Telefon Kaplama,45
+Karbon Dıreksıyon Set,958

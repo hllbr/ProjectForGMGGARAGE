@@ -1,0 +1,6 @@
+bwm,hllbr,yıkama
+mercedes,h2lbr,yıkama
+bwm,sehzade,yıkama
+Bugatti,hllbr,yıkama
+bwm,hllbr,yıkama
+AUİD,MURAT,KAPLAMA
